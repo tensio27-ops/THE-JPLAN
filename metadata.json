@@ -1,0 +1,5 @@
+{
+  "name": "Photo Zone Truss 3D Builder",
+  "description": "A 3D tool to design photo zone trusses, calculate required components, and preview custom designs.",
+  "requestFramePermissions": []
+}
